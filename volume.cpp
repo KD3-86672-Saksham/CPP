@@ -16,7 +16,7 @@ public:
     }
 
     volume(){
-         length = 15;
+         length = 1;
          width = 20;
          height = 19;
     }
